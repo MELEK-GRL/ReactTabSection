@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactTabSection/static/css/main.55ecf11d.css",
+    "main.js": "/ReactTabSection/static/js/main.64a26bc9.js",
+    "static/media/pants-1.jpg": "/ReactTabSection/static/media/pants-1.cd631ba03c72d9646d05.jpg",
+    "static/media/skirt-1.jpg": "/ReactTabSection/static/media/skirt-1.622df43ed2d60c7a21d3.jpg",
+    "static/media/sweet-4.webp": "/ReactTabSection/static/media/sweet-4.b4cee769e8f62a6860a8.webp",
+    "static/media/pants-2.jpg": "/ReactTabSection/static/media/pants-2.d1a96b629ab91d80ca08.jpg",
+    "static/media/skirt-4.webp": "/ReactTabSection/static/media/skirt-4.2f46d47f6d3ad0bcbcde.webp",
+    "static/media/sweet-1.jpg": "/ReactTabSection/static/media/sweet-1.938ee72afd508c9e2e79.jpg",
+    "static/media/sweet-3.jpg": "/ReactTabSection/static/media/sweet-3.ba32f2f3a16a7768e1b3.jpg",
+    "static/media/pants-4.jpg": "/ReactTabSection/static/media/pants-4.2d38038156704b039b3f.jpg",
+    "static/media/skirt-3.jpg": "/ReactTabSection/static/media/skirt-3.5fddc15fba6aa40a4816.jpg",
+    "static/media/skirt-2.jpg": "/ReactTabSection/static/media/skirt-2.73c94ce12d12a65b1c0d.jpg",
+    "static/media/slick.svg": "/ReactTabSection/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ReactTabSection/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ReactTabSection/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ReactTabSection/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ReactTabSection/index.html",
+    "main.55ecf11d.css.map": "/ReactTabSection/static/css/main.55ecf11d.css.map",
+    "main.64a26bc9.js.map": "/ReactTabSection/static/js/main.64a26bc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ecf11d.css",
+    "static/js/main.64a26bc9.js"
+  ]
+}
