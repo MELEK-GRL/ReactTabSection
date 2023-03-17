@@ -1,13 +1,35 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    @apply border  rounded-full border-gray-900
+}
+.colorTabs{
+    @apply p-1 rounded-full w-[12px] h-[12px] border
+}
+.tabs{
+    @apply visible  rounded-sm   w-full bg-gray-400 items-center justify-center flex h-[864px]
+}
+.tabsNone{
+    @apply  h-0 p-0 w-0 invisible m-0
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.tabItems{
+    @apply visible  rounded-sm   w-full bg-gray-400 items-center justify-center flex h-[310px]
+}
+.tabItemsNone{
+    @apply  h-0 p-0 w-0 invisible m-0
+}
+.boxCenter{
+    @apply flex items-center justify-center
+}
+.activeTabs{
+    @apply shadow
+}
+.colorGray{
+    color: #666666
+}
+.slick-track div div{
+    display: flex;
 }
